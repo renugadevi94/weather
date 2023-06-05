@@ -1,0 +1,14 @@
+@media  screen and (min-width:576px){
+    
+
+body{
+    background-color: white;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    justify-content: center;
+
+    
+    text-align: center;;
+    gap: 3rem;
+}
+}
